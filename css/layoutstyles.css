@@ -1,0 +1,29 @@
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.fix {
+    color: white;
+}
+/* img {
+    float: right;
+    width: 40%;
+    margin-left: 20px;
+    z-index: 2;
+} */
+.clear {
+    overflow: hidden;
+}
+/* .lefttext {
+    float: left;
+    width: 60%;
+    z-index: 1;
+} */
+
+.bottom {
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

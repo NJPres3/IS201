@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(235, 230, 230);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+}
+li {
+    font-weight: normal;
+}
+.bold {
+    font-weight: bold;
+}
+.border {
+    border-bottom: 3px solid #000000;
+}
